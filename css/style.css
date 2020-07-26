@@ -497,7 +497,7 @@ img{
     .menu li a:hover{
 
         border: none;
-        color: #da6709;
+        background-color: #da6709;
     }
 
 }
